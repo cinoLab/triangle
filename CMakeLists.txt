@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.1)
+cmake_minimum_required(VERSION 3.7)
 project(triangle)
 
 option(BUILD_EXECUTABLE "Build triangle executable" OFF)
